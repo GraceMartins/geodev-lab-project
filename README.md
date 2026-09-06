@@ -1,2 +1,2 @@
 # geodev-lab-project
-Identifying settlements in low-lying areas near waterways in Port Harcourt City LGA
+Analyzing urban heat island effect in Port Harcourt City LGA using satellite thermal imagery

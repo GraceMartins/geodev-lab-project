@@ -24,5 +24,5 @@ Rapid urbanisation in Port Harcourt is creating heat islands that affect public 
 
 ## Author
 
-[Your Full Name]
+Grace Martins-Ateli 
 GeoDev Lab Africa – Month 1 – Week 2
